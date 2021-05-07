@@ -1,3 +1,6 @@
+# Decorator:
+#
+
 from functools import wraps
 
 
